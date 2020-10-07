@@ -6,6 +6,8 @@ def greet_characters(array)
   array.each do |name|
     
     p "Hello #{name}!"
+    
+  end 
   
 end
 
